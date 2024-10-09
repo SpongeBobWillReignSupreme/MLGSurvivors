@@ -1,0 +1,3 @@
+/home/spongebobfan/code/cpp/MLGSurvivors/build/CMakeFiles/MLGSurvivors.exe.dir
+/home/spongebobfan/code/cpp/MLGSurvivors/build/CMakeFiles/edit_cache.dir
+/home/spongebobfan/code/cpp/MLGSurvivors/build/CMakeFiles/rebuild_cache.dir

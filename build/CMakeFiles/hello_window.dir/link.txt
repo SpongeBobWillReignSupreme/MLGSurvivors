@@ -1,0 +1,1 @@
+/usr/sbin/c++ -rdynamic CMakeFiles/hello_window.dir/src/main.cpp.o -o hello_window

@@ -1,0 +1,1 @@
+/usr/sbin/c++ -rdynamic CMakeFiles/MLGSurvivors.exe.dir/src/main.cpp.o -o MLGSurvivors.exe  -lglfw
